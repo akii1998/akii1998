@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **DSA, JAVA Script and Fronted**
+- 💬 Ask me about **DSA, JAVA Script and Frontend**
 
 - 📫 How to reach me **akashguptatp.cell@gmail.com**
 
