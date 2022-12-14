@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Track Back**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Redux | ReactJs**
 
 - 💬 Ask me about **DSA, JAVA Script and Frontend**
 
